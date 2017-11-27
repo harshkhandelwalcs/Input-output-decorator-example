@@ -1,5 +1,5 @@
 # Input-output-decorator-example
 run 
-npm intall 
-npm start
-and run index.html file on browser
+1)npm intall 
+2)npm start
+3)run index.html file on browser
